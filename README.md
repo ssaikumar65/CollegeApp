@@ -3,3 +3,4 @@ The era of mobile technology opens the windows to the android apps. it's time to
 
 1. Consists of Student's Wall to Post and Share student's Project Ideas.
 2. Chat Screen to chat with Faculty and friends.
+3. Notifications.
